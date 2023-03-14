@@ -2,7 +2,7 @@
 
 Submitted by: **Kevin do Canto**
 
-This web app: **Learn Portuguese Flashcard is a simple web application that allows you to learn Portuguese words and phrases through flashcards. The app provides a series of pre-defined flashcards that you can cycle through using the "Next" and "Previous" buttons.**
+This web app: **This web app: Learn Portuguese Flashcard is an innovative web application that combines a range of powerful features to enhance the learning experience. In addition to the ability to cycle through a series of pre-defined flashcards using the "Next" and "Previous" buttons, the app also includes a "Shuffle Cards" button that allows users to randomize the order of the flashcards, and the ability for users to guess what the flashcard means.**
 
 Time spent: **1.5** hours spent in total
 
